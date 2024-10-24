@@ -1,30 +1,34 @@
-<!--
-**dydr31/dydr31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align = 'center' style = 'background-color: rgb(238,174,202)'>
+<div align = 'center' >
 <h1>Привет!</h1>
-<h4>Меня зовут Диана, я начинающая тестировщица</h3>
-<p>В этом профиле можно найти мои учебные и пет-проекты по автоматизации тестирования и фронтенд-разработке</p>
+<h3>Меня зовут Диана, я начинающая тестировщица</h3>
+<p>В этом профиле можно найти мои учебные и пет-проекты <br> по автоматизации тестирования и фронтенд-разработке</p>
+<!-- <ul>
+  <li>Где я нахожусь?</li>
+</ul> -->
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+</svg>
+</p>
+<h3>Инструменты разработки и тестирования, которые я использовала:</h3>
+<div id='badges' width='15'> 
+<!--   <img src="https://komarev.com/ghpvc/?username=dydr31&style=flat-square&color=blue" alt=""/> -->
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+              <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+          </div>
+          
+          
+          
+          
 </div>
-<p></p>
 
-
-<div id='badges'> 
-  <img src="https://komarev.com/ghpvc/?username=dydr31&style=flat-square&color=blue" alt=""/>
-</div>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,3 +40,4 @@ Here are some ideas to get you started:
 
 ![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username) 
 
+--!>
