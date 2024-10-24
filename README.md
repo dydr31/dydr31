@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=dydr31&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id='markdown-badges'>
+
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-</div>
+
